@@ -1,6 +1,6 @@
 **The App is available at:** 
 
-
+https://github.com/HussainNasirKhan/Nutritionist-Generative-AI-Doctor/assets/60567438/20451874-d886-45eb-9147-11004ae7835c
 
 # Nutritionist-Generative-AI-Doctor
 NutriGen AI is a Generative AI Doctor designed to analyze food images and provide comprehensive nutritional insights. Easily upload a picture of your meal, and let NutriGen AI calculate the total calories in your diet, breaking down the percentage of carbohydrates, fats, and other essential components.
